@@ -17,12 +17,3 @@ This repository contains beginner-level C programs for the 12-question first-yea
 - task11.c
 - task12.c
 
-## Compile and run
-Run each program individually with:
-
-```bash
-gcc task01.c -o task01
-./task01
-```
-
-Replace `task01` with the task number you want to compile and run.
